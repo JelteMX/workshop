@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="Workshop.widget.Workshop" needsEntityContext="true" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>Workshop</name>
+    <description>This is just an empty widget</description>
+
+    <icon />
+
+    <properties>
+        <property key="key" type="string" required="false" defaultValue="">
+            <caption>String</caption>
+            <category>Category</category>
+            <description>Description</description>
+        </property>
+    </properties>
+</widget>
